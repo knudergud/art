@@ -1,0 +1,6 @@
+{
+  "name": "Camera Art Stylizer & French Poet",
+  "description": "Snap a photo of anything to have a whimsical French critic transform it into a stylized art masterpiece and compose a lovely, accent-heavy poem about it.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
